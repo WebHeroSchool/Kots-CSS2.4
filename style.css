@@ -4,7 +4,7 @@
   font-family: 'Lobster', cursive;
 }
 
-.section {
+body {
   background-color: pink;
   font-family: monospace;
   border: 4px solid black;
